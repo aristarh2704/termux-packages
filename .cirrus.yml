@@ -1,5 +1,5 @@
 container:
-  image: termux/package-builder:latest
+  image: aristarh2704/package-builder:latest
   cpu: 4
   memory: 8
 
